@@ -45,4 +45,18 @@ The main objective of this project is to:
 
 ---
 
-## 📁 Repository Contents
+## 📄 Document
+- **business_understanding.docx**  
+  Contains the complete Business Understanding report for the Disease Prediction System.
+
+---
+
+## 👩‍🎓 Academic Use
+This project is created for **educational and academic purposes**, demonstrating how data science can be applied to healthcare problem domains.
+
+---
+
+## ✅ Conclusion
+The Healthcare Disease Prediction System highlights the importance of early disease detection using data-driven approaches. The business understanding phase ensures alignment between healthcare objectives and data science solutions.
+
+---

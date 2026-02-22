@@ -1,7 +1,6 @@
 # Business-Understanding-Healthcare
 Business Understanding report for a Healthcare Disease Prediction System using data science and machine learning concepts.
 
-# Business Understanding – Healthcare Disease Prediction System
 
 ## 📌 Project Overview
 This repository contains a **Business Understanding report** for a **Healthcare Disease Prediction System**.  

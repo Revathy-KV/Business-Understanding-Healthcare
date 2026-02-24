@@ -28,7 +28,7 @@ To analyze a real-world healthcare problem and translate business requirements i
 
 ### 📁 Files Included
 
-* `Assignment1_Business_Understanding_Healthcare.pdf`
+* `Assignment 1.pdf`
 
 ---
 
@@ -54,7 +54,7 @@ To understand the impact of bias and variance on machine learning models and ide
 
 ### 📁 Files Included
 
-* `Assignment2_Bias_Variance_Report.pdf`
+* Assignment 2.pdf`
 * Diagrams and graphs (included in report)
 
 ---
@@ -82,7 +82,7 @@ To study the properties of the normal distribution and apply the empirical rule 
 
 ### 📁 Files Included
 
-* `Assignment3_Normal_Distribution_Empirical_Rule.pdf`
+* `Assignment 3.pdf`
 * Normal distribution graph
 
 ---
@@ -109,7 +109,7 @@ To compare multiple normal distributions having the same mean but different stan
 
 ### 📁 Files Included
 
-* `Assignment4_Normal_Distribution_Comparison.pdf`
+* `Assignment 4.pdf`
 * Comparative distribution graph
 
 ---

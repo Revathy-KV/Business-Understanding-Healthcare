@@ -138,11 +138,3 @@ To compare multiple normal distributions having the same mean but different stan
 
 ---
 
-If you want, next I can:
-
-* Convert this into **college-format README**
-* Create a **short repository description (1–2 lines)**
-* Suggest a **professional repository name**
-* Organize **folder structure** for uploads
-
-Just tell me what you need next.

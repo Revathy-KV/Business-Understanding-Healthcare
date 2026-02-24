@@ -1,118 +1,148 @@
-Machine Learning Assignments
+# Artificial Intelligence and Machine Learning Assignments
 
-This repository contains multiple academic assignments related to Data Science, Machine Learning, and Statistics.
-Each assignment is organized with clear objectives, key concepts, and supporting files for easy understanding and evaluation.
+## 📌 Repository Overview
 
-📂 Assignment 1: Business Understanding Report – Healthcare Disease Prediction
-🔍 Focus
+This repository contains a collection of academic assignments focused on **Data Science, Machine Learning, and Statistics**.
+Each assignment is documented with a clear **focus area**, **key learning points**, and **associated files** for systematic understanding and evaluation.
 
-Understanding business objectives and translating them into data science goals for a healthcare disease prediction system.
+---
 
-⭐ Key Points
+## 📂 Assignment 1
 
-Business problem definition in healthcare
+### 📄 Title
 
-Early disease prediction using patient data
+**Business Understanding Report – Healthcare Disease Prediction System**
 
-Business success criteria and constraints
+### 🎯 Focus
 
-Data science objectives and project planning
+To analyze a real-world healthcare problem and translate business requirements into data science objectives for early disease prediction.
 
-Alignment of business goals with ML solutions
+### 🔑 Key Points
 
-📁 Files
+* Healthcare business problem identification
+* Importance of early disease prediction
+* Business and data science objectives
+* Resource inventory and constraints
+* Data science goals and success criteria
+* Project planning and expected outcomes
 
-Assignment1_Business_Understanding_Healthcare.pdf
+### 📁 Files Included
 
-📂 Assignment 2: Bias and Variance in Machine Learning
-🔍 Focus
+* `Assignment1_Business_Understanding_Healthcare.pdf`
 
-Explaining bias, variance, underfitting, overfitting, and identifying the best-fit model.
+---
 
-⭐ Key Points
+## 📂 Assignment 2
 
-Definition of bias and variance
+### 📄 Title
 
-Underfitting vs overfitting
+**Bias and Variance in Machine Learning (Underfitting, Overfitting, Best Fit Model)**
 
-Bias–Variance tradeoff
+### 🎯 Focus
 
-Best fit model (Low Bias & Low Variance)
+To understand the impact of bias and variance on machine learning models and identify conditions for optimal model performance.
 
-Graphical illustrations and real-world examples
+### 🔑 Key Points
 
-📁 Files
+* Definition of bias and variance
+* High bias vs low bias
+* High variance vs low variance
+* Underfitting and overfitting
+* Bias–Variance tradeoff
+* Best fit model (Low Bias + Low Variance)
+* Graphical explanations and examples
 
-Assignment2_Bias_Variance_Report.pdf
+### 📁 Files Included
 
-Bias–Variance diagrams (included in report)
+* `Assignment2_Bias_Variance_Report.pdf`
+* Diagrams and graphs (included in report)
 
-📂 Assignment 3: Normal Distribution & Empirical Rule
-🔍 Focus
+---
 
-Applying normal distribution concepts and the empirical rule to real-world salary data.
+## 📂 Assignment 3
 
-⭐ Key Points
+### 📄 Title
 
-Bell-shaped normal distribution
+**Normal Distribution and Empirical Rule**
 
-Mean and standard deviation
+### 🎯 Focus
 
-68–95–99.7 empirical rule
+To study the properties of the normal distribution and apply the empirical rule to real-world salary data.
 
-Salary distribution of IT employees
+### 🔑 Key Points
 
-Graph interpretation and Z-score concept
+* Normal (Gaussian) distribution
+* Bell-shaped curve characteristics
+* Mean and standard deviation
+* Variance and spread
+* Empirical rule (68–95–99.7 rule)
+* Z-score and standardization
+* Salary distribution of IT employees
+* Graph interpretation
 
-📁 Files
+### 📁 Files Included
 
-Assignment3_Normal_Distribution_Empirical_Rule.pdf
+* `Assignment3_Normal_Distribution_Empirical_Rule.pdf`
+* Normal distribution graph
 
-Normal distribution graph
+---
 
-📂 Assignment 4: Comparison of Normal Distributions (Different Standard Deviations)
-🔍 Focus
+## 📂 Assignment 4
 
-Comparing normal distributions with the same mean but different standard deviations.
+### 📄 Title
 
-⭐ Key Points
+**Comparison of Normal Distributions with Different Standard Deviations**
 
-Effect of standard deviation on data spread
+### 🎯 Focus
 
-Stability and variability analysis
+To compare multiple normal distributions having the same mean but different standard deviations and analyze stability and variability.
 
-Empirical rule comparison
+### 🔑 Key Points
 
-Real-world interpretation (risk, consistency)
+* Effect of standard deviation on distribution shape
+* Comparison of σ = 4, 10, and 15
+* Spread and predictability
+* Variance comparison
+* Empirical rule application
+* Graphical comparison of bell curves
+* Real-world interpretation and conclusions
 
-Graphical comparison of distributions
+### 📁 Files Included
 
-📁 Files
+* `Assignment4_Normal_Distribution_Comparison.pdf`
+* Comparative distribution graph
 
-Assignment4_Normal_Distribution_Comparison.pdf
+---
 
-Comparative bell-curve graph
+## 🛠️ Tools & Concepts Used
 
-🛠️ Tools & Technologies
+* Data Science methodology
+* Machine Learning fundamentals
+* Probability and Statistics
+* Graphical data interpretation
 
-Python (conceptual usage)
+---
 
-Machine Learning fundamentals
+## 🎯 Purpose of the Repository
 
-Statistics & Probability
+* Academic coursework submission
+* Clear conceptual understanding
+* Reference for machine learning and statistics fundamentals
+* Well-structured documentation for evaluation
 
-Data Science methodology
+---
 
-🎯 Purpose of This Repository
+## 👩‍🎓 Author
 
-Academic submission
+**Revathy**
 
-Concept clarity in ML and statistics
+---
 
-Easy reference for exams and interviews
+If you want, next I can:
 
-Structured learning documentation
+* Convert this into **college-format README**
+* Create a **short repository description (1–2 lines)**
+* Suggest a **professional repository name**
+* Organize **folder structure** for uploads
 
-👩‍🎓 Author
-
-Revathy
+Just tell me what you need next.
